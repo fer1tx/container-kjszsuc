@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fer1tx",
+  "repo": "container-kjszsuc",
+  "name": "fer1tx",
+  "email": "fmamedov886@gmail.com",
+}
